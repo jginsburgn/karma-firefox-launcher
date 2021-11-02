@@ -1,5 +1,5 @@
 {
-  "name": "karma-firefox-launcher",
+  "name": "@jginsburgn/karma-firefox-launcher",
   "version": "2.1.1",
   "description": "A Karma plugin. Launcher for Firefox.",
   "main": "index.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/karma-runner/karma-firefox-launcher.git"
+    "url": "git://github.com/jginsburgn/karma-firefox-launcher.git"
   },
   "keywords": [
     "karma",
